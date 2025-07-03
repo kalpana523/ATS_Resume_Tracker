@@ -1,0 +1,6 @@
+streamlit
+cohere
+python-dotenv
+PyPDF2
+pandas
+altair
